@@ -1,7 +1,7 @@
 const path = require('path');
 
 module.exports = {
-  entry: './try.ts',
+  entry: './enum.ts',
   mode: 'development',
   module: {
     rules: [
